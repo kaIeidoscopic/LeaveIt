@@ -59,6 +59,10 @@
 
 .icon-xihuan1:before { content: "\e870"; }
 
+.icon-moon:before {
+  content: "\e6bb";
+}
+
 .icon-right:before { content: "\e6dd"; }
 
 .icon-medium-circle-fill:before { content: "\e887"; }
